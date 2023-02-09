@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abu Bakkar Siddik</h1>
-<marquee width="60%" direction="left" height="100px">
-<h3 align="center" style="color: red;">  A passionate Automation & Manual SQA Engineer from Bangladesh</h3>
-</marquee>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=BD3931&width=1200&height=200&lines=A+Passionate+Automation+%26+Manual+SQA+Engineer+from+Bangladesh." alt="Typing SVG" /></a></h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
