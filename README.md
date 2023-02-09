@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abu Bakkar Siddik</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=BD3931&width=1200&height=150&lines=A+Passionate+Automation+%26+Manual+SQA+Engineer+from+Bangladesh." alt="Typing SVG" /></a></h3>
-
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=BD3931&width=1200&height=120&lines=A+Passionate+Automation+%26+Manual+SQA+Engineer+from+Bangladesh." alt="Typing SVG" /></a></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddik-1997&label=Profile%20views&color=0e75b6&style=flat" alt="siddik-1997" /> </p>
