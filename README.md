@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Abu Bakkar Siddik</h1>
-<h3 align="center" style="color: red;"> A passionate Automation & Manual SQA Engineer from Bangladesh</h3>
+<marquee width="60%" direction="left" height="100px">
+<h3 align="center" style="color: red;">  A passionate Automation & Manual SQA Engineer from Bangladesh</h3>
+</marquee>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddik-1997&label=Profile%20views&color=0e75b6&style=flat" alt="siddik-1997" /> </p>
