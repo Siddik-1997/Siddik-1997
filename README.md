@@ -14,6 +14,7 @@
 <p align="left">
 <a href="mailto:mdsiddik.swe@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://www.linkedin.com/in/a-b-siddik/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://www.upwork.com/freelancers/~014faae15050f47440"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork"/></a>;                                                            
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
